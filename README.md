@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="2.png" width="600">
+</p>
+
 # OpenIE-PT: Extração de Informação Aberta para Português com Dependências Universais e Atenção BERT
 
 Sistema de **Open Information Extraction (OpenIE)** para o português brasileiro que combina análise de dependências universais (UD), validação por regras linguísticas teóricas e mecanismos de atenção do modelo **BERTimbau**. O experimento é avaliado sobre o **BIA (Banco de Interpretações Agregadas)**, um corpus gold de triplas (arg1, relação, arg2) anotadas manualmente.
