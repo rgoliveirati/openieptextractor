@@ -1,0 +1,18 @@
+{
+  "dataset": "bia_abl_rq6b_no_E3",
+  "gold_path": "bia_gold_sentences.jsonl",
+  "output_dir": "ablation_experiments/abl_rq6b_no_E3",
+  "bert_model": "neuralmind/bert-base-portuguese-cased",
+  "theory_mode": "filter",
+  "apply_theoretical_rules": true,
+  "TP": 253,
+  "FP": 306,
+  "FN": 174,
+  "precision": 0.4525939177101968,
+  "recall": 0.5925058548009368,
+  "f1": 0.513184584178499,
+  "theory_valid_rate": 1.0,
+  "n_predictions_total": 559,
+  "n_predictions_theory_valid": 559,
+  "n_predictions_theory_blocked": 0
+}

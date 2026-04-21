@@ -1,0 +1,9 @@
+{
+  "mode": "none",
+  "heads_s": [],
+  "heads_o": [],
+  "head_analysis_valid": false,
+  "bert_model": "neuralmind/bert-base-portuguese-cased",
+  "theory_mode": "filter",
+  "apply_theoretical_rules": true
+}

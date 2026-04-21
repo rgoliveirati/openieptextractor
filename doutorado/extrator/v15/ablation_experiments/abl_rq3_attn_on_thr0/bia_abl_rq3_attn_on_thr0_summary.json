@@ -1,0 +1,18 @@
+{
+  "dataset": "bia_abl_rq3_attn_on_thr0",
+  "gold_path": "bia_gold_sentences.jsonl",
+  "output_dir": "ablation_experiments/abl_rq3_attn_on_thr0",
+  "bert_model": "neuralmind/bert-base-portuguese-cased",
+  "theory_mode": "off",
+  "apply_theoretical_rules": false,
+  "TP": 265,
+  "FP": 273,
+  "FN": 162,
+  "precision": 0.49256505576208176,
+  "recall": 0.6206088992974239,
+  "f1": 0.5492227979274612,
+  "theory_valid_rate": 1.0,
+  "n_predictions_total": 538,
+  "n_predictions_theory_valid": 538,
+  "n_predictions_theory_blocked": 0
+}

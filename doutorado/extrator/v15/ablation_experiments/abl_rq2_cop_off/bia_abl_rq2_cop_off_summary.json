@@ -1,0 +1,18 @@
+{
+  "dataset": "bia_abl_rq2_cop_off",
+  "gold_path": "bia_gold_sentences.jsonl",
+  "output_dir": "ablation_experiments/abl_rq2_cop_off",
+  "bert_model": "neuralmind/bert-base-portuguese-cased",
+  "theory_mode": "off",
+  "apply_theoretical_rules": false,
+  "TP": 212,
+  "FP": 255,
+  "FN": 215,
+  "precision": 0.4539614561027837,
+  "recall": 0.4964871194379391,
+  "f1": 0.4742729306487696,
+  "theory_valid_rate": 1.0,
+  "n_predictions_total": 467,
+  "n_predictions_theory_valid": 467,
+  "n_predictions_theory_blocked": 0
+}

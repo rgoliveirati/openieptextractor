@@ -1,0 +1,791 @@
+{
+  "overall": [
+    {
+      "head": "L3_H8",
+      "count": 326
+    },
+    {
+      "head": "L5_H11",
+      "count": 326
+    },
+    {
+      "head": "L4_H8",
+      "count": 326
+    },
+    {
+      "head": "L5_H9",
+      "count": 326
+    },
+    {
+      "head": "L3_H3",
+      "count": 326
+    },
+    {
+      "head": "L2_H5",
+      "count": 326
+    },
+    {
+      "head": "L2_H4",
+      "count": 326
+    },
+    {
+      "head": "L3_H6",
+      "count": 326
+    },
+    {
+      "head": "L4_H2",
+      "count": 326
+    },
+    {
+      "head": "L5_H3",
+      "count": 326
+    },
+    {
+      "head": "L7_H10",
+      "count": 326
+    },
+    {
+      "head": "L7_H4",
+      "count": 326
+    },
+    {
+      "head": "L9_H7",
+      "count": 326
+    },
+    {
+      "head": "L10_H3",
+      "count": 326
+    },
+    {
+      "head": "L8_H11",
+      "count": 326
+    },
+    {
+      "head": "L7_H9",
+      "count": 326
+    },
+    {
+      "head": "L8_H6",
+      "count": 326
+    },
+    {
+      "head": "L11_H1",
+      "count": 326
+    },
+    {
+      "head": "L11_H11",
+      "count": 326
+    },
+    {
+      "head": "L11_H8",
+      "count": 326
+    }
+  ],
+  "by_pattern": [
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L3_H8",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L5_H11",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L4_H8",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L5_H9",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L3_H3",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L2_H5",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L2_H4",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L3_H6",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L4_H2",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L5_H3",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L7_H10",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L7_H4",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L9_H7",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L10_H3",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L8_H11",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L7_H9",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L8_H6",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L11_H1",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L11_H11",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj[+obl]",
+      "head": "L11_H8",
+      "count": 36
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L3_H8",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L5_H11",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L4_H8",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L5_H9",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L3_H3",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L2_H5",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L2_H4",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L3_H6",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L4_H2",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L5_H3",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L7_H10",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L7_H4",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L9_H7",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L10_H3",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L8_H11",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L7_H9",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L8_H6",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L11_H1",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L11_H11",
+      "count": 131
+    },
+    {
+      "pattern_ud": "verb+obj",
+      "head": "L11_H8",
+      "count": 131
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L3_H8",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L5_H11",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L4_H8",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L5_H9",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L3_H3",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L2_H5",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L2_H4",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L3_H6",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L4_H2",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L5_H3",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L7_H10",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L7_H4",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L9_H7",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L10_H3",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L8_H11",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L7_H9",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L8_H6",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L11_H1",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L11_H11",
+      "count": 70
+    },
+    {
+      "pattern_ud": "cop",
+      "head": "L11_H8",
+      "count": 70
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L3_H8",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L5_H11",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L4_H8",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L5_H9",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L3_H3",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L2_H5",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L2_H4",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L3_H6",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L4_H2",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L5_H3",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L7_H10",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L7_H4",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L9_H7",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L10_H3",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L8_H11",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L7_H9",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L8_H6",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L11_H1",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L11_H11",
+      "count": 7
+    },
+    {
+      "pattern_ud": "modal+verb",
+      "head": "L11_H8",
+      "count": 7
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L3_H8",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L5_H11",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L4_H8",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L5_H9",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L3_H3",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L2_H5",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L2_H4",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L3_H6",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L4_H2",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L5_H3",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L7_H10",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L7_H4",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L9_H7",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L10_H3",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L8_H11",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L7_H9",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L8_H6",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L11_H1",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L11_H11",
+      "count": 19
+    },
+    {
+      "pattern_ud": "verb+obj[coord]",
+      "head": "L11_H8",
+      "count": 19
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L3_H8",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L5_H11",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L4_H8",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L5_H9",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L3_H3",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L2_H5",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L2_H4",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L3_H6",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L4_H2",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L5_H3",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L7_H10",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L7_H4",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L9_H7",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L10_H3",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L8_H11",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L7_H9",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L8_H6",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L11_H1",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L11_H11",
+      "count": 45
+    },
+    {
+      "pattern_ud": "aux:pass",
+      "head": "L11_H8",
+      "count": 45
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L3_H8",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L5_H11",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L4_H8",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L5_H9",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L3_H3",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L2_H5",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L2_H4",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L3_H6",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L4_H2",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L5_H3",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L7_H10",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L7_H4",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L9_H7",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L10_H3",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L8_H11",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L7_H9",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L8_H6",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L11_H1",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L11_H11",
+      "count": 18
+    },
+    {
+      "pattern_ud": "verb+obj[conj]",
+      "head": "L11_H8",
+      "count": 18
+    }
+  ],
+  "summary": {
+    "n_unique_heads_overall": 20,
+    "n_patterns": 7,
+    "total_head_events": 6520
+  }
+}
